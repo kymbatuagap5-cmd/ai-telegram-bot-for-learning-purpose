@@ -1,4 +1,3 @@
-# telegram-bot-for-learning
 # 🪟 ИИ-ассистент для компаний по установке окон
 **Ссылка на телеграм-бота**: https://t.me/Uralskokna_bot
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
