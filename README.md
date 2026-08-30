@@ -1,5 +1,7 @@
 # 🪟 ИИ-ассистент для компаний по установке окон
 **Ссылка на телеграм-бота**: https://t.me/Uralskokna_bot
+![Скриншот](https://github.com/kymbatuagap5-cmd/ai-telegram-bot-for-learning-purpose/blob/main/Снимок%20экрана%202026-08-28%20200010.png?raw=true)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Suvvy.ai-blue)](https://suvvy.ai)
 [![AI Model](https://img.shields.io/badge/AI-Qwen-green)](https://qwenlm.github.io/)
